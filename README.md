@@ -7,3 +7,6 @@ do it from sigle web/app.
 Customer has to perform single click to get account balance, do transaction and transfer ammount to any wallet.
 
 We also going to support e-cash and use it one place.
+
+For internal use case:- https://docs.google.com/presentation/d/1GafXGS1DpUpbkuEUDyIzdSRPU5Yc4XNwDGb3WxY9sAM/edit?usp=sharing
+
