@@ -5,3 +5,5 @@ Our goal is reduce the customer effort, rather then visiting all wallet for bala
 do it from sigle web/app.
 
 Customer has to perform single click to get account balance, do transaction and transfer ammount to any wallet.
+
+We also going to support e-cash and use it one place.
