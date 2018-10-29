@@ -24,7 +24,6 @@
 		<module>repository</module>
 		<module>security</module>
 		<module>service</module>
-
 		<module>serviceimpl</module>
 
 	</modules>
