@@ -18,6 +18,16 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 
+	<modules>
+		<module>configuration</module>
+		<module>domain</module>
+		<module>repository</module>
+		<module>service</module>
+		<module>serviceimpl</module>
+
+	</modules>
+
+
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
