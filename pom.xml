@@ -6,7 +6,7 @@
 	<groupId>com.code</groupId>
 	<artifactId>sundrycash</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>pom</packaging>
 
 	<name>sundrycash</name>
 	<description>Sundrycash Web App</description>
@@ -22,6 +22,7 @@
 		<module>configuration</module>
 		<module>domain</module>
 		<module>repository</module>
+		<module>security</module>
 		<module>service</module>
 		<module>serviceimpl</module>
 
