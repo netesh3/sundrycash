@@ -39,7 +39,7 @@ Example:-
 For Running App:-
 java -jar sundrycash 0.0.1-SNAPSHOT.jar
 
-Or Simple Run using Right click over "SundrycashApplication.java"
+Or Simply Run using Right click over "SundrycashApplication.java"
 
 Try opening "http://localhost:8080"
 
