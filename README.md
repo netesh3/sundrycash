@@ -10,7 +10,7 @@ We also going to support e-cash and use it one place.
 
 For internal use case:- https://docs.google.com/presentation/d/1GafXGS1DpUpbkuEUDyIzdSRPU5Yc4XNwDGb3WxY9sAM/edit?usp=sharing
 
-
+For comiple code:-
 mvn clean install
 
 I will create "sundrycash 0.0.1-SNAPSHOT" jar.
